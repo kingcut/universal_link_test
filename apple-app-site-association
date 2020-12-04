@@ -1,13 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "96W29G85F4.net.webike.app02.staging",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
+				"paths": [ "*"]
+			}
+		]
+	}
 }
